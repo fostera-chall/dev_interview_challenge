@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-surefire-plugin-3.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.mvn/maven-surefire-plugin-3.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
